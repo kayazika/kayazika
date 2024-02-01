@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn programming
 - 🌱 I’m currently learning Python, PHP, Laravel and any tecnology.
 - 💞️ I’m looking to collaborate on everything within my code-related limitation
-- 📫 How to reach me on twitter @kayazika, instagram @alexalmeidazk.
+- 📫 How to reach me on mail alexkayaalmeida@gmail.com
 
 <!---
 kayazika/kayazika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
